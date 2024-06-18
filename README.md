@@ -9,8 +9,7 @@ Information Technology (internal), 2011.
 2. Glenford J. Myers, Corey Sandler, Tom Badgett. The Art of Software
 Testing, John Wiley & Sons, Inc., 2011
 
-###
-References
+### References
 1. Dorothy Graham, Mark Fewster. Experiences of Test Automation: Case
 Studies of Software Test Automation, Pearson Education Inc., 2012
 2. Julian Harty. A Practical Guide to Testing Wireless Smartphone
