@@ -19,6 +19,11 @@ Term 2 (2023-2024).
 - Week 14: Web Application Usecase
 - Week 15: Web Application Testcase
 
+## Practices
+- Lab 1
+- Lab 2
+- Lab 3
+
 ## LEARNING DOCUMENTS, REFERENCES
 ### Curriculum
 1. Nguyen Cong Hoan. Lecture + Slide of Software Testing. University of
