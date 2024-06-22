@@ -3,6 +3,7 @@
 Term 2 (2023-2024).
 
 ## Exercises and Quizzes
+- Week 1: None
 - Week 2: Quiz
 - Week 3: Quiz
 - Week 4: Quiz
