@@ -3,20 +3,20 @@
 Term 2 (2023-2024).
 
 ## Exercises and Quizzes
-- 2: Quiz
-- 3: Quiz
-- 4: Quiz
-- 5: Black box testing
-- 6: Short test
-- 7: White box testing
-- 8: Quiz
-- 9: Quiz
-- 10: Refactoring
-- 11: Test-driven Development
-- 12: Rstudio
-- 13: Quiz & Rstudio
-- 14: Web Application Usecase
-- 15: Web Application Testcase
+- Week 2: Quiz
+- Week 3: Quiz
+- Week 4: Quiz
+- Week 5: Black box testing
+- Week 6: Short test
+- Week 7: White box testing
+- Week 8: Quiz
+- Week 9: Quiz
+- Week 10: Refactoring
+- Week 11: Test-driven Development
+- Week 12: Rstudio
+- Week 13: Quiz & Rstudio
+- Week 14: Web Application Usecase
+- Week 15: Web Application Testcase
 
 ## LEARNING DOCUMENTS, REFERENCES
 ### Curriculum
