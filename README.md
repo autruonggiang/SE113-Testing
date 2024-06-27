@@ -1,4 +1,4 @@
-# SE113 - Software Testing
+# SE113 - Software Testing (JP)
 
 Term 2 (2023-2024).
 
